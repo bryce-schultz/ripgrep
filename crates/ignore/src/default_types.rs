@@ -53,6 +53,7 @@ pub(crate) const DEFAULT_TYPES: &[(&[&str], &[&str])] = &[
     (&["creole"], &["*.creole"]),
     (&["crystal"], &["Projectfile", "*.cr", "*.ecr", "shard.yml"]),
     (&["cs"], &["*.cs"]),
+    (&["csf"], &["*.csf"]),
     (&["csharp"], &["*.cs"]),
     (&["cshtml"], &["*.cshtml"]),
     (&["csproj"], &["*.csproj"]),
