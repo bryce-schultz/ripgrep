@@ -163,6 +163,7 @@ pub(crate) const DEFAULT_TYPES: &[(&[&str], &[&str])] = &[
     ]),
     (&["mako"], &["*.mako", "*.mao"]),
     (&["man"], &["*.[0-9lnpx]", "*.[0-9][cEFMmpSx]"]),
+    (&["map"], &["*.map"]),
     (&["markdown", "md"], &[
         "*.markdown",
         "*.md",
